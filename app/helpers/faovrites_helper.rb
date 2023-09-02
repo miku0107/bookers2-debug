@@ -1,0 +1,2 @@
+module FaovritesHelper
+end
